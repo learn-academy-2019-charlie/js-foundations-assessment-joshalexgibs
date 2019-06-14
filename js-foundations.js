@@ -59,6 +59,7 @@ const animalNums = (arr1, arr2) => {
         }
     }
 }
+
 animalNums(nums, nouns)
 
 //6. Create an array of 5 numbers. Write a function that loops through the array and returns a new array of the numbers multiplied by 5.
